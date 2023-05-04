@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-servicemanager",
+    "name": "nopoco/laminas-servicemanager",
     "description": "Factory-Driven Dependency Injection Container",
     "license": "BSD-3-Clause",
     "keywords": [
